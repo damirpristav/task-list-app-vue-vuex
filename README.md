@@ -1,4 +1,6 @@
-# task-list-app
+# Task list app with Vue and Vuex
+
+[Live Preview](https://sleepy-lamport-35da7b.netlify.app/)
 
 ## Project setup
 ```
